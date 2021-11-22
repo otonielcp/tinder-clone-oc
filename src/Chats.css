@@ -1,5 +1,7 @@
+/** @format */
+
 .chats {
-  display: flex;
-  flex-direction: column;
-  overflow-y: scroll;
+	display: flex;
+	flex-direction: column;
+	overflow-y: scroll;
 }
